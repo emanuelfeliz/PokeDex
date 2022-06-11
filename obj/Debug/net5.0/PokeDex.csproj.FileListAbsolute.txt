@@ -1,0 +1,8 @@
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.csproj.AssemblyReference.cache
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.AssemblyInfo.cs
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.RazorAssemblyInfo.cache
+C:\Users\emanu\Desktop\ITLA 6TO CUATRIMESTRE\Programacion 3\Asignacion 2\PokeDex\PokeDex\obj\Debug\net5.0\PokeDex.RazorAssemblyInfo.cs
